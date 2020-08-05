@@ -131,7 +131,7 @@ if __name__=="__main__":
                             ind=matching.index(p.lower())
                             if ind>=0:
                                 matching_count2[ind]=matching_count2[ind]+1
-        
+        #print("Matching words' count value in "+names[i[0]]+" is :",matching_count0)
         #print("Matching words' count value in "+names[i[0]]+" is :",matching_count1)
         #print("Matching words' count value in "+names[i[1]]+" is :",matching_count2)
         total_words=len(f3)+len(f4)
