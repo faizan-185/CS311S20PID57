@@ -1,0 +1,29 @@
+Testing
+Students will perform testing of assigned projects. The following issues should be detected during testing:
+
+a) Any type of crashes in application
+ ~ None.
+
+b) Issues found in the responsiveness of UI
+ ~ None.
+
+c) Incorrect results of algorithms
+ ~ None.
+
+d) Any discrepancies in the features implemented
+ ~ None.
+ 
+e) Suggestion on the improvement of UI/backend
+ ~ Show an error message when user uploads zip on one file.
+ 
+   
+f) Testing methods can be automated or it can be performed manually.
+ ~ It is performed manually
+
+g) Try multiple inputs on algorithms to make it crash and report the scenarios which cause problem
+ ~ No crash occured.
+
+h) All the issues should be reported on Github 
+
+Hence, The testing I have done is,there are actually 3 tasks for that project.One is give the input file and check for plagiarism.This is implemeted and the bonus task is also implemented. 
+
